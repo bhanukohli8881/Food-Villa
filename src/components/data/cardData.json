@@ -1,0 +1,452 @@
+[
+  {
+    "info": {
+      "id": "764868",
+      "name": "The Belgian Waffle Co.",
+      "imageId": "restaurant-01",
+      "avgRating": 4.5,
+      "avgRatingString": "4.5",
+      "totalRatingsString": "588",
+      "cuisines": ["Waffle", "Desserts", "Ice Cream"],
+      "costForTwo": "₹200 for two",
+      "locality": "MUNDHWA ROAD",
+      "areaName": "LAKE SHORE MALL",
+      "sla": {
+        "deliveryTime": 35,
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "3.0 km"
+      },
+      "veg": true,
+      "isOpen": true,
+      "demoData": false
+    }
+  },
+
+  {
+    "info": {
+      "id": "639016",
+      "name": "Subway",
+      "imageId": "restaurant-02",
+      "avgRating": 4.4,
+      "avgRatingString": "4.4",
+      "totalRatingsString": "1.1K+",
+      "cuisines": ["sandwich", "Salads", "wrap", "Healthy Food"],
+      "costForTwo": "₹350 for two",
+      "locality": "Aliganj",
+      "areaName": "Alambagh",
+      "sla": {
+        "deliveryTime": 35,
+        "slaString": "30-40 mins",
+        "lastMileTravelString": "3.0 km"
+      },
+      "veg": false,
+      "isOpen": true,
+      "demoData": false
+    }
+  },
+  {
+    "info": {
+      "id": "216642",
+      "name": "Wow! Momo",
+      "imageId": "restaurant-03",
+      "avgRating": 4.3,
+      "avgRatingString": "4.3",
+      "totalRatingsString": "3.3K+",
+      "cuisines": ["Momos", "Chinese", "fastfood", "Asian", "Beverages"],
+      "costForTwo": "₹200 for two",
+      "locality": "Husainganj",
+      "areaName": "Husainganj",
+      "sla": {
+        "deliveryTime": 32,
+        "slaString": "25-35 mins",
+        "lastMileTravelString": "2.4 km"
+      },
+      "veg": false,
+      "isOpen": true,
+      "demoData": false
+    }
+  },
+  {
+    "info": {
+      "id": "238031",
+      "name": "Domino's Pizza",
+      "imageId": "restaurant-04",
+      "avgRating": 4.4,
+      "avgRatingString": "4.4",
+      "totalRatingsString": "3.7K+",
+      "cuisines": ["Pizzas", "Italian", "Pastas", "Desserts"],
+      "costForTwo": "₹400 for two",
+      "locality": "Cash and Pay Colony",
+      "areaName": "Charbagh",
+      "sla": {
+        "deliveryTime": 31,
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "1.5 km"
+      },
+      "veg": false,
+      "isOpen": true,
+      "demoData": false
+    }
+  },
+  {
+    "info": {
+      "id": "1404248",
+      "name": "Burger Singh(Big Punjabi Burgers)",
+      "imageId": "restaurant-05",
+      "avgRating": 3.8,
+      "avgRatingString": "3.8",
+      "totalRatingsString": "172",
+      "cuisines": [
+        "Burgers",
+        "Snacks",
+        "Desserts",
+        "Beverages",
+        "Fast Food",
+        "American",
+        "Indian",
+        "Biryani"
+      ],
+      "costForTwo": "₹300 for two",
+      "locality": "ALAMBAGH",
+      "areaName": "Shringar Nagar",
+      "sla": {
+        "deliveryTime": 33,
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "4.8 km"
+      },
+      "veg": false,
+      "isOpen": true,
+      "demoData": false
+    }
+  },
+  {
+    "info": {
+      "id": "demo-06",
+      "name": "Tandoori Junction",
+      "imageId": "restaurant-06",
+      "avgRating": 4.1,
+      "avgRatingString": "4.1",
+      "totalRatingsString": "420",
+      "cuisines": ["North Indian", "Tandoor", "Punjabi"],
+      "costForTwo": "₹450 for two",
+      "locality": "Hazratganj",
+      "areaName": "Hazratganj",
+      "sla": {
+        "deliveryTime": 32,
+        "slaString": "27-32 mins",
+        "lastMileTravelString": "3.2 km"
+      },
+      "veg": false,
+      "isOpen": true,
+      "demoData": true
+    }
+  },
+  {
+    "info": {
+      "id": "demo-07",
+      "name": "Royal Biryani House",
+      "imageId": "restaurant-07",
+      "avgRating": 4.3,
+      "avgRatingString": "4.3",
+      "totalRatingsString": "1.2K+",
+      "cuisines": ["Biryani", "Mughlai", "Indian"],
+      "costForTwo": "₹350 for two",
+      "locality": "Gomti Nagar",
+      "areaName": "Gomti Nagar",
+      "sla": {
+        "deliveryTime": 29,
+        "slaString": "24-29 mins",
+        "lastMileTravelString": "2.8 km"
+      },
+      "veg": false,
+      "isOpen": true,
+      "demoData": true
+    }
+  },
+  {
+    "info": {
+      "id": "demo-08",
+      "name": "Green Bowl Cafe",
+      "imageId": "restaurant-08",
+      "avgRating": 4.0,
+      "avgRatingString": "4.0",
+      "totalRatingsString": "280",
+      "cuisines": ["Healthy Food", "Salads", "Continental"],
+      "costForTwo": "₹300 for two",
+      "locality": "Indira Nagar",
+      "areaName": "Indira Nagar",
+      "sla": {
+        "deliveryTime": 26,
+        "slaString": "21-26 mins",
+        "lastMileTravelString": "2.1 km"
+      },
+      "veg": false,
+      "isOpen": true,
+      "demoData": true
+    }
+  },
+  {
+    "info": {
+      "id": "demo-09",
+      "name": "Dosa Express",
+      "imageId": "restaurant-09",
+      "avgRating": 4.4,
+      "avgRatingString": "4.4",
+      "totalRatingsString": "760",
+      "cuisines": ["South Indian", "Dosa", "Idli"],
+      "costForTwo": "₹250 for two",
+      "locality": "Aliganj",
+      "areaName": "Aliganj",
+      "sla": {
+        "deliveryTime": 24,
+        "slaString": "19-24 mins",
+        "lastMileTravelString": "1.9 km"
+      },
+      "veg": false,
+      "isOpen": true,
+      "demoData": true
+    }
+  },
+  {
+    "info": {
+      "id": "demo-10",
+      "name": "Kebab Kingdom",
+      "imageId": "restaurant-10",
+      "avgRating": 4.2,
+      "avgRatingString": "4.2",
+      "totalRatingsString": "950",
+      "cuisines": ["Kebabs", "Mughlai", "North Indian"],
+      "costForTwo": "₹500 for two",
+      "locality": "Aminabad",
+      "areaName": "Aminabad",
+      "sla": {
+        "deliveryTime": 34,
+        "slaString": "29-34 mins",
+        "lastMileTravelString": "3.7 km"
+      },
+      "veg": false,
+      "isOpen": true,
+      "demoData": true
+    }
+  },
+  {
+    "info": {
+      "id": "demo-11",
+      "name": "Noodle Street",
+      "imageId": "restaurant-11",
+      "avgRating": 3.9,
+      "avgRatingString": "3.9",
+      "totalRatingsString": "315",
+      "cuisines": ["Chinese", "Asian", "Noodles"],
+      "costForTwo": "₹300 for two",
+      "locality": "Mahanagar",
+      "areaName": "Mahanagar",
+      "sla": {
+        "deliveryTime": 30,
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "2.6 km"
+      },
+      "veg": false,
+      "isOpen": true,
+      "demoData": true
+    }
+  },
+  {
+    "info": {
+      "id": "demo-12",
+      "name": "Sweet Truth Bakery",
+      "imageId": "restaurant-12",
+      "avgRating": 4.2,
+      "avgRatingString": "4.2",
+      "totalRatingsString": "540",
+      "cuisines": ["Bakery", "Desserts", "Cakes"],
+      "costForTwo": "₹250 for two",
+      "locality": "Gomti Nagar",
+      "areaName": "Gomti Nagar",
+      "sla": {
+        "deliveryTime": 28,
+        "slaString": "23-28 mins",
+        "lastMileTravelString": "2.4 km"
+      },
+      "veg": false,
+      "isOpen": true,
+      "demoData": true
+    }
+  },
+  {
+    "info": {
+      "id": "demo-13",
+      "name": "Farm Fresh Pizza",
+      "imageId": "restaurant-13",
+      "avgRating": 4.1,
+      "avgRatingString": "4.1",
+      "totalRatingsString": "680",
+      "cuisines": ["Pizza", "Italian", "Fast Food"],
+      "costForTwo": "₹400 for two",
+      "locality": "Vikas Nagar",
+      "areaName": "Vikas Nagar",
+      "sla": {
+        "deliveryTime": 31,
+        "slaString": "26-31 mins",
+        "lastMileTravelString": "3.0 km"
+      },
+      "veg": false,
+      "isOpen": true,
+      "demoData": true
+    }
+  },
+  {
+    "info": {
+      "id": "demo-14",
+      "name": "Lucknowi Biryani Kitchen",
+      "imageId": "restaurant-14",
+      "avgRating": 4.5,
+      "avgRatingString": "4.5",
+      "totalRatingsString": "2.1K+",
+      "cuisines": ["Biryani", "Awadhi", "Mughlai"],
+      "costForTwo": "₹400 for two",
+      "locality": "Chowk",
+      "areaName": "Chowk",
+      "sla": {
+        "deliveryTime": 33,
+        "slaString": "28-33 mins",
+        "lastMileTravelString": "3.5 km"
+      },
+      "veg": false,
+      "isOpen": true,
+      "demoData": true
+    }
+  },
+  {
+    "info": {
+      "id": "demo-15",
+      "name": "Cafe Mocha House",
+      "imageId": "restaurant-15",
+      "avgRating": 4.0,
+      "avgRatingString": "4.0",
+      "totalRatingsString": "390",
+      "cuisines": ["Cafe", "Beverages", "Snacks"],
+      "costForTwo": "₹350 for two",
+      "locality": "Hazratganj",
+      "areaName": "Hazratganj",
+      "sla": {
+        "deliveryTime": 27,
+        "slaString": "22-27 mins",
+        "lastMileTravelString": "2.0 km"
+      },
+      "veg": false,
+      "isOpen": true,
+      "demoData": true
+    }
+  },
+  {
+    "info": {
+      "id": "demo-16",
+      "name": "Rolls & Wraps Co.",
+      "imageId": "restaurant-16",
+      "avgRating": 3.8,
+      "avgRatingString": "3.8",
+      "totalRatingsString": "260",
+      "cuisines": ["Rolls", "Wraps", "Fast Food"],
+      "costForTwo": "₹250 for two",
+      "locality": "Alambagh",
+      "areaName": "Alambagh",
+      "sla": {
+        "deliveryTime": 25,
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "1.7 km"
+      },
+      "veg": false,
+      "isOpen": true,
+      "demoData": true
+    }
+  },
+  {
+    "info": {
+      "id": "demo-17",
+      "name": "Street Food Hub",
+      "imageId": "restaurant-17",
+      "avgRating": 4.1,
+      "avgRatingString": "4.1",
+      "totalRatingsString": "610",
+      "cuisines": ["Street Food", "Chaat", "Snacks"],
+      "costForTwo": "₹200 for two",
+      "locality": "Aminabad",
+      "areaName": "Aminabad",
+      "sla": {
+        "deliveryTime": 29,
+        "slaString": "24-29 mins",
+        "lastMileTravelString": "2.5 km"
+      },
+      "veg": false,
+      "isOpen": true,
+      "demoData": true
+    }
+  },
+  {
+    "info": {
+      "id": "demo-18",
+      "name": "Pasta Place",
+      "imageId": "restaurant-18",
+      "avgRating": 4.2,
+      "avgRatingString": "4.2",
+      "totalRatingsString": "470",
+      "cuisines": ["Italian", "Pasta", "Continental"],
+      "costForTwo": "₹450 for two",
+      "locality": "Gomti Nagar",
+      "areaName": "Gomti Nagar",
+      "sla": {
+        "deliveryTime": 35,
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "3.4 km"
+      },
+      "veg": false,
+      "isOpen": true,
+      "demoData": true
+    }
+  },
+  {
+    "info": {
+      "id": "demo-19",
+      "name": "Punjabi Tadka",
+      "imageId": "restaurant-19",
+      "avgRating": 4.3,
+      "avgRatingString": "4.3",
+      "totalRatingsString": "880",
+      "cuisines": ["Punjabi", "North Indian", "Thali"],
+      "costForTwo": "₹400 for two",
+      "locality": "Indira Nagar",
+      "areaName": "Indira Nagar",
+      "sla": {
+        "deliveryTime": 32,
+        "slaString": "27-32 mins",
+        "lastMileTravelString": "3.1 km"
+      },
+      "veg": false,
+      "isOpen": true,
+      "demoData": true
+    }
+  },
+  {
+    "info": {
+      "id": "demo-20",
+      "name": "Sushi & Asian Bowl",
+      "imageId": "restaurant-20",
+      "avgRating": 3.9,
+      "avgRatingString": "3.9",
+      "totalRatingsString": "190",
+      "cuisines": ["Asian", "Sushi", "Japanese"],
+      "costForTwo": "₹550 for two",
+      "locality": "Vibhuti Khand",
+      "areaName": "Vibhuti Khand",
+      "sla": {
+        "deliveryTime": 38,
+        "slaString": "33-38 mins",
+        "lastMileTravelString": "4.0 km"
+      },
+      "veg": false,
+      "isOpen": true,
+      "demoData": true
+    }
+  }
+]

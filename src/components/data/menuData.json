@@ -1,0 +1,1383 @@
+[
+  {
+    "restaurantId": "764868",
+    "restaurantName": "The Belgian Waffle Co.",
+    "menuItems": [
+      {
+        "id": "764868-item-01",
+        "name": "Classic Belgian Waffle",
+        "description": "Original waffle topped with a light chocolate drizzle.",
+        "category": "Waffles",
+        "price": 129,
+        "isVeg": true,
+        "imageId": "764868-item-01"
+      },
+      {
+        "id": "764868-item-02",
+        "name": "Dark Chocolate Waffle",
+        "description": "Crispy waffle with rich dark chocolate sauce.",
+        "category": "Waffles",
+        "price": 159,
+        "isVeg": true,
+        "imageId": "764868-item-02"
+      },
+      {
+        "id": "764868-item-03",
+        "name": "Chocolate Overload Waffle",
+        "description": "Waffle layered with chocolate spread and chocolate chips.",
+        "category": "Waffles",
+        "price": 189,
+        "isVeg": true,
+        "imageId": "764868-item-03"
+      },
+      {
+        "id": "764868-item-04",
+        "name": "Hazelnut Waffle",
+        "description": "Golden waffle with creamy hazelnut spread.",
+        "category": "Waffles",
+        "price": 179,
+        "isVeg": true,
+        "imageId": "764868-item-04"
+      },
+      {
+        "id": "764868-item-05",
+        "name": "Strawberry Cream Waffle",
+        "description": "Waffle served with strawberry sauce and cream.",
+        "category": "Waffles",
+        "price": 169,
+        "isVeg": true,
+        "imageId": "764868-item-05"
+      },
+      {
+        "id": "764868-item-06",
+        "name": "Belgian Chocolate Pancakes",
+        "description": "Soft pancakes finished with Belgian chocolate sauce.",
+        "category": "Desserts",
+        "price": 199,
+        "isVeg": true,
+        "imageId": "764868-item-06"
+      },
+      {
+        "id": "764868-item-07",
+        "name": "Vanilla Ice Cream Cup",
+        "description": "Vanilla ice cream served in a dessert cup.",
+        "category": "Ice Cream",
+        "price": 89,
+        "isVeg": true,
+        "imageId": "764868-item-07"
+      }
+    ]
+  },
+  {
+    "restaurantId": "639016",
+    "restaurantName": "Subway",
+    "menuItems": [
+      {
+        "id": "639016-item-01",
+        "name": "Veggie Delight Sub",
+        "description": "Fresh vegetables, cheese and house dressing in bread.",
+        "category": "Subs",
+        "price": 179,
+        "isVeg": true,
+        "imageId": "639016-item-01"
+      },
+      {
+        "id": "639016-item-02",
+        "name": "Paneer Tikka Sub",
+        "description": "Seasoned paneer, crunchy vegetables and mint sauce.",
+        "category": "Subs",
+        "price": 219,
+        "isVeg": true,
+        "imageId": "639016-item-02"
+      },
+      {
+        "id": "639016-item-03",
+        "name": "Chicken Tikka Sub",
+        "description": "Grilled chicken tikka with fresh vegetables.",
+        "category": "Subs",
+        "price": 249,
+        "isVeg": false,
+        "imageId": "639016-item-03"
+      },
+      {
+        "id": "639016-item-04",
+        "name": "Tandoori Chicken Sub",
+        "description": "Tandoori-style chicken with creamy dressing.",
+        "category": "Subs",
+        "price": 259,
+        "isVeg": false,
+        "imageId": "639016-item-04"
+      },
+      {
+        "id": "639016-item-05",
+        "name": "Classic Veg Salad",
+        "description": "A bowl of fresh seasonal vegetables.",
+        "category": "Salads",
+        "price": 149,
+        "isVeg": true,
+        "imageId": "639016-item-05"
+      },
+      {
+        "id": "639016-item-06",
+        "name": "Cheese Toastie",
+        "description": "Toasted bread with melted cheese.",
+        "category": "Snacks",
+        "price": 129,
+        "isVeg": true,
+        "imageId": "639016-item-06"
+      },
+      {
+        "id": "639016-item-07",
+        "name": "Choco Chip Cookie",
+        "description": "Soft baked cookie with chocolate chips.",
+        "category": "Desserts",
+        "price": 49,
+        "isVeg": true,
+        "imageId": "639016-item-07"
+      }
+    ]
+  },
+  {
+    "restaurantId": "216642",
+    "restaurantName": "Wow! Momo",
+    "menuItems": [
+      {
+        "id": "216642-item-01",
+        "name": "Veg Steamed Momos",
+        "description": "Soft dumplings filled with seasoned vegetables.",
+        "category": "Momos",
+        "price": 119,
+        "isVeg": true,
+        "imageId": "216642-item-01"
+      },
+      {
+        "id": "216642-item-02",
+        "name": "Paneer Fried Momos",
+        "description": "Crispy dumplings with a paneer filling.",
+        "category": "Momos",
+        "price": 149,
+        "isVeg": true,
+        "imageId": "216642-item-02"
+      },
+      {
+        "id": "216642-item-03",
+        "name": "Chicken Steamed Momos",
+        "description": "Steamed dumplings filled with seasoned chicken.",
+        "category": "Momos",
+        "price": 159,
+        "isVeg": false,
+        "imageId": "216642-item-03"
+      },
+      {
+        "id": "216642-item-04",
+        "name": "Chicken Cheese Momos",
+        "description": "Chicken dumplings with a cheesy filling.",
+        "category": "Momos",
+        "price": 189,
+        "isVeg": false,
+        "imageId": "216642-item-04"
+      },
+      {
+        "id": "216642-item-05",
+        "name": "Veg Schezwan Momos",
+        "description": "Vegetable momos tossed in spicy Schezwan sauce.",
+        "category": "Momos",
+        "price": 169,
+        "isVeg": true,
+        "imageId": "216642-item-05"
+      },
+      {
+        "id": "216642-item-06",
+        "name": "Classic Veg Chowmein",
+        "description": "Stir-fried noodles with vegetables.",
+        "category": "Chinese",
+        "price": 149,
+        "isVeg": true,
+        "imageId": "216642-item-06"
+      },
+      {
+        "id": "216642-item-07",
+        "name": "Chilli Potato",
+        "description": "Crispy potato bites tossed in chilli sauce.",
+        "category": "Chinese",
+        "price": 139,
+        "isVeg": true,
+        "imageId": "216642-item-07"
+      }
+    ]
+  },
+  {
+    "restaurantId": "238031",
+    "restaurantName": "Domino's Pizza",
+    "menuItems": [
+      {
+        "id": "238031-item-01",
+        "name": "Margherita Pizza",
+        "description": "Classic pizza with cheese and tomato sauce.",
+        "category": "Pizza",
+        "price": 199,
+        "isVeg": true,
+        "imageId": "238031-item-01"
+      },
+      {
+        "id": "238031-item-02",
+        "name": "Farmhouse Pizza",
+        "description": "Pizza topped with capsicum, onion and vegetables.",
+        "category": "Pizza",
+        "price": 329,
+        "isVeg": true,
+        "imageId": "238031-item-02"
+      },
+      {
+        "id": "238031-item-03",
+        "name": "Peppy Paneer Pizza",
+        "description": "Pizza topped with paneer, capsicum and spicy sauce.",
+        "category": "Pizza",
+        "price": 349,
+        "isVeg": true,
+        "imageId": "238031-item-03"
+      },
+      {
+        "id": "238031-item-04",
+        "name": "Chicken Dominator Pizza",
+        "description": "Pizza with a selection of chicken toppings.",
+        "category": "Pizza",
+        "price": 429,
+        "isVeg": false,
+        "imageId": "238031-item-04"
+      },
+      {
+        "id": "238031-item-05",
+        "name": "Garlic Breadsticks",
+        "description": "Baked breadsticks seasoned with garlic.",
+        "category": "Sides",
+        "price": 119,
+        "isVeg": true,
+        "imageId": "238031-item-05"
+      },
+      {
+        "id": "238031-item-06",
+        "name": "Classic Cheese Garlic Bread",
+        "description": "Garlic bread topped with melted cheese.",
+        "category": "Sides",
+        "price": 149,
+        "isVeg": true,
+        "imageId": "238031-item-06"
+      },
+      {
+        "id": "238031-item-07",
+        "name": "Choco Lava Cake",
+        "description": "Warm chocolate cake with a soft chocolate centre.",
+        "category": "Desserts",
+        "price": 109,
+        "isVeg": true,
+        "imageId": "238031-item-07"
+      }
+    ]
+  },
+  {
+    "restaurantId": "1404248",
+    "restaurantName": "Burger Singh(Big Punjabi Burgers)",
+    "menuItems": [
+      {
+        "id": "1404248-item-01",
+        "name": "Classic Veg Burger",
+        "description": "Vegetable patty with lettuce and house sauce.",
+        "category": "Burgers",
+        "price": 99,
+        "isVeg": true,
+        "imageId": "1404248-item-01"
+      },
+      {
+        "id": "1404248-item-02",
+        "name": "Big Punjabi Aloo Burger",
+        "description": "Spiced potato patty with Punjabi-style sauces.",
+        "category": "Burgers",
+        "price": 139,
+        "isVeg": true,
+        "imageId": "1404248-item-02"
+      },
+      {
+        "id": "1404248-item-03",
+        "name": "Paneer Makhani Burger",
+        "description": "Paneer patty with creamy makhani-style sauce.",
+        "category": "Burgers",
+        "price": 179,
+        "isVeg": true,
+        "imageId": "1404248-item-03"
+      },
+      {
+        "id": "1404248-item-04",
+        "name": "Classic Chicken Burger",
+        "description": "Chicken patty with lettuce and mayonnaise.",
+        "category": "Burgers",
+        "price": 169,
+        "isVeg": false,
+        "imageId": "1404248-item-04"
+      },
+      {
+        "id": "1404248-item-05",
+        "name": "Crispy Chicken Burger",
+        "description": "Crispy chicken patty with spicy sauce.",
+        "category": "Burgers",
+        "price": 199,
+        "isVeg": false,
+        "imageId": "1404248-item-05"
+      },
+      {
+        "id": "1404248-item-06",
+        "name": "Peri Peri Fries",
+        "description": "Crispy fries tossed in peri peri seasoning.",
+        "category": "Sides",
+        "price": 99,
+        "isVeg": true,
+        "imageId": "1404248-item-06"
+      },
+      {
+        "id": "1404248-item-07",
+        "name": "Chocolate Brownie",
+        "description": "Rich chocolate brownie square.",
+        "category": "Desserts",
+        "price": 89,
+        "isVeg": true,
+        "imageId": "1404248-item-07"
+      }
+    ]
+  },
+  {
+    "restaurantId": "demo-06",
+    "restaurantName": "Tandoori Junction",
+    "menuItems": [
+      {
+        "id": "demo-06-item-01",
+        "name": "Paneer Tikka",
+        "description": "Chunks of marinated paneer grilled in a tandoor.",
+        "category": "Starters",
+        "price": 229,
+        "isVeg": true,
+        "imageId": "demo-06-item-01"
+      },
+      {
+        "id": "demo-06-item-02",
+        "name": "Tandoori Mushroom",
+        "description": "Mushrooms marinated with spices and roasted.",
+        "category": "Starters",
+        "price": 199,
+        "isVeg": true,
+        "imageId": "demo-06-item-02"
+      },
+      {
+        "id": "demo-06-item-03",
+        "name": "Dal Tadka",
+        "description": "Yellow lentils tempered with spices and herbs.",
+        "category": "Main Course",
+        "price": 169,
+        "isVeg": true,
+        "imageId": "demo-06-item-03"
+      },
+      {
+        "id": "demo-06-item-04",
+        "name": "Paneer Butter Masala",
+        "description": "Paneer cooked in a creamy tomato gravy.",
+        "category": "Main Course",
+        "price": 249,
+        "isVeg": true,
+        "imageId": "demo-06-item-04"
+      },
+      {
+        "id": "demo-06-item-05",
+        "name": "Tandoori Roti",
+        "description": "Whole wheat bread cooked in a tandoor.",
+        "category": "Breads",
+        "price": 25,
+        "isVeg": true,
+        "imageId": "demo-06-item-05"
+      },
+      {
+        "id": "demo-06-item-06",
+        "name": "Chicken Tikka",
+        "description": "Boneless chicken marinated and tandoor grilled.",
+        "category": "Starters",
+        "price": 279,
+        "isVeg": false,
+        "imageId": "demo-06-item-06"
+      },
+      {
+        "id": "demo-06-item-07",
+        "name": "Jeera Rice",
+        "description": "Steamed rice tossed with cumin.",
+        "category": "Rice",
+        "price": 139,
+        "isVeg": true,
+        "imageId": "demo-06-item-07"
+      }
+    ]
+  },
+  {
+    "restaurantId": "demo-07",
+    "restaurantName": "Royal Biryani House",
+    "menuItems": [
+      {
+        "id": "demo-07-item-01",
+        "name": "Lucknowi Chicken Biryani",
+        "description": "Aromatic rice layered with Awadhi-style chicken.",
+        "category": "Biryani",
+        "price": 269,
+        "isVeg": false,
+        "imageId": "demo-07-item-01"
+      },
+      {
+        "id": "demo-07-item-02",
+        "name": "Lucknowi Mutton Biryani",
+        "description": "Fragrant rice served with slow-cooked mutton.",
+        "category": "Biryani",
+        "price": 329,
+        "isVeg": false,
+        "imageId": "demo-07-item-02"
+      },
+      {
+        "id": "demo-07-item-03",
+        "name": "Veg Dum Biryani",
+        "description": "Vegetables and basmati rice cooked with spices.",
+        "category": "Biryani",
+        "price": 199,
+        "isVeg": true,
+        "imageId": "demo-07-item-03"
+      },
+      {
+        "id": "demo-07-item-04",
+        "name": "Paneer Tikka",
+        "description": "Grilled paneer cubes with tandoori spices.",
+        "category": "Starters",
+        "price": 219,
+        "isVeg": true,
+        "imageId": "demo-07-item-04"
+      },
+      {
+        "id": "demo-07-item-05",
+        "name": "Chicken Seekh Kebab",
+        "description": "Minced chicken kebabs cooked over a grill.",
+        "category": "Kebabs",
+        "price": 239,
+        "isVeg": false,
+        "imageId": "demo-07-item-05"
+      },
+      {
+        "id": "demo-07-item-06",
+        "name": "Boondi Raita",
+        "description": "Chilled yogurt with boondi and mild spices.",
+        "category": "Sides",
+        "price": 59,
+        "isVeg": true,
+        "imageId": "demo-07-item-06"
+      },
+      {
+        "id": "demo-07-item-07",
+        "name": "Gulab Jamun",
+        "description": "Soft milk-solid dumplings in sugar syrup.",
+        "category": "Desserts",
+        "price": 79,
+        "isVeg": true,
+        "imageId": "demo-07-item-07"
+      }
+    ]
+  },
+  {
+    "restaurantId": "demo-08",
+    "restaurantName": "Green Bowl Cafe",
+    "menuItems": [
+      {
+        "id": "demo-08-item-01",
+        "name": "Garden Fresh Salad",
+        "description": "Fresh greens, cucumber, tomato and house dressing.",
+        "category": "Salads",
+        "price": 159,
+        "isVeg": true,
+        "imageId": "demo-08-item-01"
+      },
+      {
+        "id": "demo-08-item-02",
+        "name": "Paneer Protein Bowl",
+        "description": "Paneer, grains and vegetables in a balanced bowl.",
+        "category": "Bowls",
+        "price": 229,
+        "isVeg": true,
+        "imageId": "demo-08-item-02"
+      },
+      {
+        "id": "demo-08-item-03",
+        "name": "Grilled Veg Sandwich",
+        "description": "Grilled sandwich filled with fresh vegetables.",
+        "category": "Sandwiches",
+        "price": 169,
+        "isVeg": true,
+        "imageId": "demo-08-item-03"
+      },
+      {
+        "id": "demo-08-item-04",
+        "name": "Corn & Spinach Wrap",
+        "description": "Corn and spinach wrapped with a light dressing.",
+        "category": "Wraps",
+        "price": 179,
+        "isVeg": true,
+        "imageId": "demo-08-item-04"
+      },
+      {
+        "id": "demo-08-item-05",
+        "name": "Quinoa Veg Bowl",
+        "description": "Quinoa with vegetables and lemon dressing.",
+        "category": "Bowls",
+        "price": 249,
+        "isVeg": true,
+        "imageId": "demo-08-item-05"
+      },
+      {
+        "id": "demo-08-item-06",
+        "name": "Fresh Lime Cooler",
+        "description": "Refreshing lime drink.",
+        "category": "Beverages",
+        "price": 89,
+        "isVeg": true,
+        "imageId": "demo-08-item-06"
+      },
+      {
+        "id": "demo-08-item-07",
+        "name": "Fruit Yogurt Bowl",
+        "description": "Yogurt topped with seasonal fruit.",
+        "category": "Desserts",
+        "price": 149,
+        "isVeg": true,
+        "imageId": "demo-08-item-07"
+      }
+    ]
+  },
+  {
+    "restaurantId": "demo-09",
+    "restaurantName": "Dosa Express",
+    "menuItems": [
+      {
+        "id": "demo-09-item-01",
+        "name": "Plain Masala Dosa",
+        "description": "Crisp dosa served with potato masala and chutneys.",
+        "category": "Dosa",
+        "price": 129,
+        "isVeg": true,
+        "imageId": "demo-09-item-01"
+      },
+      {
+        "id": "demo-09-item-02",
+        "name": "Mysore Masala Dosa",
+        "description": "Dosa spread with Mysore chutney and potato masala.",
+        "category": "Dosa",
+        "price": 159,
+        "isVeg": true,
+        "imageId": "demo-09-item-02"
+      },
+      {
+        "id": "demo-09-item-03",
+        "name": "Idli Sambar",
+        "description": "Steamed idlis served with sambar and chutney.",
+        "category": "Idli",
+        "price": 89,
+        "isVeg": true,
+        "imageId": "demo-09-item-03"
+      },
+      {
+        "id": "demo-09-item-04",
+        "name": "Medu Vada",
+        "description": "Crispy lentil fritters served with sambar.",
+        "category": "Snacks",
+        "price": 99,
+        "isVeg": true,
+        "imageId": "demo-09-item-04"
+      },
+      {
+        "id": "demo-09-item-05",
+        "name": "Onion Uttapam",
+        "description": "Soft rice pancake topped with onion.",
+        "category": "Uttapam",
+        "price": 139,
+        "isVeg": true,
+        "imageId": "demo-09-item-05"
+      },
+      {
+        "id": "demo-09-item-06",
+        "name": "Rava Dosa",
+        "description": "Thin crispy semolina dosa.",
+        "category": "Dosa",
+        "price": 149,
+
+        "isVeg": true,
+        "imageId": "demo-09-item-06"
+      },
+      {
+        "id": "demo-09-item-07",
+        "name": "Filter Coffee",
+        "description": "South Indian filter coffee.",
+        "category": "Beverages",
+        "price": 49,
+        "isVeg": true,
+        "imageId": "demo-09-item-07"
+      }
+    ]
+  },
+  {
+    "restaurantId": "demo-10",
+    "restaurantName": "Kebab Kingdom",
+    "menuItems": [
+      {
+        "id": "demo-10-item-01",
+        "name": "Chicken Galouti Kebab",
+        "description": "Soft minced chicken kebab with aromatic spices.",
+        "category": "Kebabs",
+        "price": 249,
+        "isVeg": false,
+        "imageId": "demo-10-item-01"
+      },
+      {
+        "id": "demo-10-item-02",
+        "name": "Mutton Seekh Kebab",
+        "description": "Minced mutton skewers grilled with spices.",
+        "category": "Kebabs",
+        "price": 299,
+        "isVeg": false,
+        "imageId": "demo-10-item-02"
+      },
+      {
+        "id": "demo-10-item-03",
+        "name": "Paneer Tikka",
+        "description": "Grilled paneer with tandoori marinade.",
+        "category": "Starters",
+        "price": 219,
+        "isVeg": true,
+        "imageId": "demo-10-item-03"
+      },
+      {
+        "id": "demo-10-item-04",
+        "name": "Chicken Handi",
+        "description": "Chicken cooked in a rich handi-style gravy.",
+        "category": "Main Course",
+        "price": 289,
+        "isVeg": false,
+        "imageId": "demo-10-item-04"
+      },
+      {
+        "id": "demo-10-item-05",
+        "name": "Mutton Rogan Josh",
+        "description": "Mutton cooked in a spiced gravy.",
+        "category": "Main Course",
+        "price": 329,
+        "isVeg": false,
+        "imageId": "demo-10-item-05"
+      },
+      {
+        "id": "demo-10-item-06",
+        "name": "Butter Naan",
+        "description": "Soft naan brushed with butter.",
+        "category": "Breads",
+        "price": 45,
+        "isVeg": true,
+        "imageId": "demo-10-item-06"
+      },
+      {
+        "id": "demo-10-item-07",
+        "name": "Chicken Biryani",
+        "description": "Basmati rice cooked with spiced chicken.",
+        "category": "Biryani",
+        "price": 259,
+        "isVeg": false,
+        "imageId": "demo-10-item-07"
+      }
+    ]
+  },
+  {
+    "restaurantId": "demo-11",
+    "restaurantName": "Noodle Street",
+    "menuItems": [
+      {
+        "id": "demo-11-item-01",
+        "name": "Veg Hakka Noodles",
+        "description": "Stir-fried noodles with crunchy vegetables.",
+        "category": "Noodles",
+        "price": 159,
+        "isVeg": true,
+        "imageId": "demo-11-item-01"
+      },
+      {
+        "id": "demo-11-item-02",
+        "name": "Chilli Paneer",
+        "description": "Paneer cubes tossed in spicy chilli sauce.",
+        "category": "Starters",
+        "price": 219,
+        "isVeg": true,
+        "imageId": "demo-11-item-02"
+      },
+      {
+        "id": "demo-11-item-03",
+        "name": "Veg Manchurian",
+        "description": "Vegetable dumplings in Manchurian sauce.",
+        "category": "Starters",
+        "price": 189,
+        "isVeg": true,
+        "imageId": "demo-11-item-03"
+      },
+      {
+        "id": "demo-11-item-04",
+        "name": "Chicken Hakka Noodles",
+        "description": "Stir-fried noodles with chicken pieces.",
+        "category": "Noodles",
+        "price": 199,
+        "isVeg": false,
+        "imageId": "demo-11-item-04"
+      },
+      {
+        "id": "demo-11-item-05",
+        "name": "Chicken Fried Rice",
+        "description": "Fried rice with egg-free chicken topping.",
+        "category": "Rice",
+        "price": 209,
+        "isVeg": false,
+        "imageId": "demo-11-item-05"
+      },
+      {
+        "id": "demo-11-item-06",
+        "name": "Veg Spring Rolls",
+        "description": "Crispy rolls filled with vegetables.",
+        "category": "Starters",
+        "price": 139,
+        "isVeg": true,
+        "imageId": "demo-11-item-06"
+      },
+      {
+        "id": "demo-11-item-07",
+        "name": "Schezwan Fried Rice",
+        "description": "Rice tossed with spicy Schezwan sauce.",
+        "category": "Rice",
+        "price": 179,
+        "isVeg": true,
+        "imageId": "demo-11-item-07"
+      }
+    ]
+  },
+  {
+    "restaurantId": "demo-12",
+    "restaurantName": "Sweet Truth Bakery",
+    "menuItems": [
+      {
+        "id": "demo-12-item-01",
+        "name": "Chocolate Truffle Cake",
+        "description": "Chocolate cake layered with truffle ganache.",
+        "category": "Cakes",
+        "price": 149,
+        "isVeg": true,
+        "imageId": "demo-12-item-01"
+      },
+      {
+        "id": "demo-12-item-02",
+        "name": "Red Velvet Pastry",
+        "description": "Soft red velvet sponge with cream frosting.",
+        "category": "Pastries",
+        "price": 129,
+        "isVeg": true,
+        "imageId": "demo-12-item-02"
+      },
+      {
+        "id": "demo-12-item-03",
+        "name": "Blueberry Cheesecake",
+        "description": "Creamy cheesecake with blueberry topping.",
+        "category": "Cakes",
+        "price": 189,
+        "isVeg": true,
+        "imageId": "demo-12-item-03"
+      },
+      {
+        "id": "demo-12-item-04",
+        "name": "Classic Chocolate Brownie",
+        "description": "Dense chocolate brownie.",
+        "category": "Desserts",
+        "price": 99,
+        "isVeg": true,
+        "imageId": "demo-12-item-04"
+      },
+      {
+        "id": "demo-12-item-05",
+        "name": "Pineapple Pastry",
+        "description": "Vanilla sponge with pineapple cream.",
+        "category": "Pastries",
+        "price": 119,
+        "isVeg": true,
+        "imageId": "demo-12-item-05"
+      },
+      {
+        "id": "demo-12-item-06",
+        "name": "Chocolate Chip Muffin",
+        "description": "Soft muffin with chocolate chips.",
+        "category": "Bakery",
+        "price": 89,
+        "isVeg": true,
+        "imageId": "demo-12-item-06"
+      },
+      {
+        "id": "demo-12-item-07",
+        "name": "Belgian Chocolate Donut",
+        "description": "Donut topped with chocolate glaze.",
+        "category": "Bakery",
+        "price": 79,
+        "isVeg": true,
+        "imageId": "demo-12-item-07"
+      }
+    ]
+  },
+  {
+    "restaurantId": "demo-13",
+    "restaurantName": "Farm Fresh Pizza",
+    "menuItems": [
+      {
+        "id": "demo-13-item-01",
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato sauce.",
+        "category": "Pizza",
+        "price": 199,
+        "isVeg": true,
+        "imageId": "demo-13-item-01"
+      },
+      {
+        "id": "demo-13-item-02",
+        "name": "Farmhouse Pizza",
+        "description": "Pizza with capsicum, onion and fresh vegetables.",
+        "category": "Pizza",
+        "price": 299,
+        "isVeg": true,
+        "imageId": "demo-13-item-02"
+      },
+      {
+        "id": "demo-13-item-03",
+        "name": "Paneer Tikka Pizza",
+        "description": "Pizza topped with paneer tikka and peppers.",
+        "category": "Pizza",
+        "price": 329,
+        "isVeg": true,
+        "imageId": "demo-13-item-03"
+      },
+      {
+        "id": "demo-13-item-04",
+        "name": "BBQ Chicken Pizza",
+        "description": "Pizza topped with barbecue chicken.",
+        "category": "Pizza",
+        "price": 379,
+        "isVeg": false,
+        "imageId": "demo-13-item-04"
+      },
+      {
+        "id": "demo-13-item-05",
+        "name": "Penne Alfredo Pasta",
+        "description": "Penne pasta in a creamy white sauce.",
+        "category": "Pasta",
+        "price": 229,
+        "isVeg": true,
+        "imageId": "demo-13-item-05"
+      },
+      {
+        "id": "demo-13-item-06",
+        "name": "Arrabbiata Pasta",
+        "description": "Pasta tossed in a spicy tomato sauce.",
+        "category": "Pasta",
+        "price": 219,
+        "isVeg": true,
+        "imageId": "demo-13-item-06"
+      },
+      {
+        "id": "demo-13-item-07",
+        "name": "Garlic Bread",
+        "description": "Toasted garlic bread with herbs.",
+        "category": "Sides",
+        "price": 99,
+        "isVeg": true,
+        "imageId": "demo-13-item-07"
+      }
+    ]
+  },
+  {
+    "restaurantId": "demo-14",
+    "restaurantName": "Lucknowi Biryani Kitchen",
+    "menuItems": [
+      {
+        "id": "demo-14-item-01",
+        "name": "Awadhi Chicken Dum Biryani",
+        "description": "Fragrant dum-cooked rice with chicken.",
+        "category": "Biryani",
+        "price": 279,
+        "isVeg": false,
+        "imageId": "demo-14-item-01"
+      },
+      {
+        "id": "demo-14-item-02",
+        "name": "Lucknowi Mutton Biryani",
+        "description": "Awadhi-style rice with slow-cooked mutton.",
+        "category": "Biryani",
+        "price": 339,
+        "isVeg": false,
+        "imageId": "demo-14-item-02"
+      },
+      {
+        "id": "demo-14-item-03",
+        "name": "Veg Awadhi Biryani",
+        "description": "Aromatic rice with vegetables and whole spices.",
+        "category": "Biryani",
+        "price": 199,
+        "isVeg": true,
+        "imageId": "demo-14-item-03"
+      },
+      {
+        "id": "demo-14-item-04",
+        "name": "Chicken Galouti Kebab",
+        "description": "Tender minced chicken kebab with Awadhi spices.",
+        "category": "Kebabs",
+        "price": 249,
+        "isVeg": false,
+        "imageId": "demo-14-item-04"
+      },
+      {
+        "id": "demo-14-item-05",
+        "name": "Paneer Tikka",
+        "description": "Tandoor-grilled paneer with spices.",
+        "category": "Starters",
+        "price": 219,
+        "isVeg": true,
+        "imageId": "demo-14-item-05"
+      },
+      {
+        "id": "demo-14-item-06",
+        "name": "Sheermal",
+        "description": "Traditional mildly sweet saffron flatbread.",
+        "category": "Breads",
+        "price": 59,
+        "isVeg": true,
+        "imageId": "demo-14-item-06"
+      },
+      {
+        "id": "demo-14-item-07",
+        "name": "Phirni",
+        "description": "Chilled ground-rice pudding with cardamom.",
+        "category": "Desserts",
+        "price": 89,
+        "isVeg": true,
+        "imageId": "demo-14-item-07"
+      }
+    ]
+  },
+  {
+    "restaurantId": "demo-15",
+    "restaurantName": "Cafe Mocha House",
+    "menuItems": [
+      {
+        "id": "demo-15-item-01",
+        "name": "Classic Cappuccino",
+        "description": "Espresso with steamed milk and foam.",
+        "category": "Coffee",
+        "price": 139,
+        "isVeg": true,
+        "imageId": "demo-15-item-01"
+      },
+      {
+        "id": "demo-15-item-02",
+        "name": "Cafe Mocha",
+        "description": "Espresso blended with chocolate and milk.",
+        "category": "Coffee",
+        "price": 169,
+        "isVeg": true,
+        "imageId": "demo-15-item-02"
+      },
+      {
+        "id": "demo-15-item-03",
+        "name": "Cold Coffee",
+        "description": "Chilled coffee blended with milk.",
+        "category": "Beverages",
+        "price": 149,
+        "isVeg": true,
+        "imageId": "demo-15-item-03"
+      },
+      {
+        "id": "demo-15-item-04",
+        "name": "Paneer Sandwich",
+        "description": "Toasted sandwich with paneer and vegetables.",
+        "category": "Snacks",
+        "price": 179,
+        "isVeg": true,
+        "imageId": "demo-15-item-04"
+      },
+      {
+        "id": "demo-15-item-05",
+        "name": "Classic Veg Burger",
+        "description": "Vegetable patty with lettuce and sauce.",
+        "category": "Snacks",
+        "price": 159,
+        "isVeg": true,
+        "imageId": "demo-15-item-05"
+      },
+      {
+        "id": "demo-15-item-06",
+        "name": "French Fries",
+        "description": "Golden crispy potato fries.",
+        "category": "Sides",
+        "price": 99,
+        "isVeg": true,
+        "imageId": "demo-15-item-06"
+      },
+      {
+        "id": "demo-15-item-07",
+        "name": "Chocolate Brownie",
+        "description": "Rich chocolate brownie served as a dessert.",
+        "category": "Desserts",
+        "price": 109,
+        "isVeg": true,
+        "imageId": "demo-15-item-07"
+      }
+    ]
+  },
+  {
+    "restaurantId": "demo-16",
+    "restaurantName": "Rolls & Wraps Co.",
+    "menuItems": [
+      {
+        "id": "demo-16-item-01",
+        "name": "Paneer Tikka Roll",
+        "description": "Paneer tikka wrapped with onions and sauces.",
+        "category": "Rolls",
+        "price": 169,
+        "isVeg": true,
+        "imageId": "demo-16-item-01"
+      },
+      {
+        "id": "demo-16-item-02",
+        "name": "Aloo Achari Roll",
+        "description": "Spiced potato filling with tangy achari sauce.",
+        "category": "Rolls",
+        "price": 119,
+        "isVeg": true,
+        "imageId": "demo-16-item-02"
+      },
+      {
+        "id": "demo-16-item-03",
+        "name": "Chicken Tikka Roll",
+        "description": "Chicken tikka wrapped with onions and chutney.",
+        "category": "Rolls",
+        "price": 189,
+        "isVeg": false,
+        "imageId": "demo-16-item-03"
+      },
+      {
+        "id": "demo-16-item-04",
+        "name": "Egg Chicken Roll",
+        "description": "Egg-coated wrap with chicken filling.",
+        "category": "Rolls",
+        "price": 199,
+        "isVeg": false,
+        "imageId": "demo-16-item-04"
+      },
+      {
+        "id": "demo-16-item-05",
+        "name": "Veg Cheese Wrap",
+        "description": "Vegetables and cheese in a soft wrap.",
+        "category": "Wraps",
+        "price": 149,
+        "isVeg": true,
+        "imageId": "demo-16-item-05"
+      },
+      {
+        "id": "demo-16-item-06",
+        "name": "Peri Peri Fries",
+        "description": "Crispy fries with peri peri seasoning.",
+        "category": "Sides",
+        "price": 99,
+        "isVeg": true,
+        "imageId": "demo-16-item-06"
+      },
+      {
+        "id": "demo-16-item-07",
+        "name": "Mint Lemonade",
+        "description": "Chilled lemonade with mint.",
+        "category": "Beverages",
+        "price": 89,
+        "isVeg": true,
+        "imageId": "demo-16-item-07"
+      }
+    ]
+  },
+  {
+    "restaurantId": "demo-17",
+    "restaurantName": "Street Food Hub",
+    "menuItems": [
+      {
+        "id": "demo-17-item-01",
+        "name": "Aloo Tikki Chaat",
+        "description": "Crispy potato patties with chutneys and yogurt.",
+        "category": "Chaat",
+        "price": 89,
+        "isVeg": true,
+        "imageId": "demo-17-item-01"
+      },
+      {
+        "id": "demo-17-item-02",
+        "name": "Papdi Chaat",
+        "description": "Crisp papdi topped with yogurt and chutneys.",
+        "category": "Chaat",
+        "price": 99,
+        "isVeg": true,
+        "imageId": "demo-17-item-02"
+      },
+      {
+        "id": "demo-17-item-03",
+        "name": "Pani Puri",
+        "description": "Crisp puris served with spiced flavored water.",
+        "category": "Chaat",
+        "price": 69,
+        "isVeg": true,
+        "imageId": "demo-17-item-03"
+      },
+      {
+        "id": "demo-17-item-04",
+        "name": "Dahi Bhalla",
+        "description": "Lentil dumplings topped with chilled yogurt.",
+        "category": "Chaat",
+        "price": 109,
+        "isVeg": true,
+        "imageId": "demo-17-item-04"
+      },
+      {
+        "id": "demo-17-item-05",
+        "name": "Samosa",
+        "description": "Crispy pastry filled with spiced potato.",
+        "category": "Snacks",
+        "price": 25,
+        "isVeg": true,
+        "imageId": "demo-17-item-05"
+      },
+      {
+        "id": "demo-17-item-06",
+        "name": "Pav Bhaji",
+        "description": "Spiced vegetable mash served with buttered pav.",
+        "category": "Street Food",
+        "price": 129,
+        "isVeg": true,
+        "imageId": "demo-17-item-06"
+      },
+      {
+        "id": "demo-17-item-07",
+        "name": "Chole Kulche",
+        "description": "Spiced chickpeas served with soft kulche.",
+        "category": "Street Food",
+        "price": 119,
+        "isVeg": true,
+        "imageId": "demo-17-item-07"
+      }
+    ]
+  },
+  {
+    "restaurantId": "demo-18",
+    "restaurantName": "Pasta Place",
+    "menuItems": [
+      {
+        "id": "demo-18-item-01",
+        "name": "Penne Alfredo",
+        "description": "Penne pasta in creamy Alfredo sauce.",
+        "category": "Pasta",
+        "price": 229,
+        "isVeg": true,
+        "imageId": "demo-18-item-01"
+      },
+      {
+        "id": "demo-18-item-02",
+        "name": "Penne Arrabbiata",
+        "description": "Penne tossed in spicy tomato sauce.",
+        "category": "Pasta",
+        "price": 219,
+        "isVeg": true,
+        "imageId": "demo-18-item-02"
+      },
+      {
+        "id": "demo-18-item-03",
+        "name": "White Sauce Pasta",
+        "description": "Creamy pasta with herbs and vegetables.",
+        "category": "Pasta",
+        "price": 239,
+        "isVeg": true,
+        "imageId": "demo-18-item-03"
+      },
+      {
+        "id": "demo-18-item-04",
+        "name": "Red Sauce Pasta",
+        "description": "Pasta in a tangy tomato and herb sauce.",
+        "category": "Pasta",
+        "price": 219,
+        "isVeg": true,
+        "imageId": "demo-18-item-04"
+      },
+      {
+        "id": "demo-18-item-05",
+        "name": "Chicken Pink Sauce Pasta",
+        "description": "Chicken pasta in a creamy tomato sauce.",
+        "category": "Pasta",
+        "price": 279,
+        "isVeg": false,
+        "imageId": "demo-18-item-05"
+      },
+      {
+        "id": "demo-18-item-06",
+        "name": "Garlic Bread",
+        "description": "Toasted bread with garlic butter and herbs.",
+        "category": "Sides",
+        "price": 99,
+        "isVeg": true,
+        "imageId": "demo-18-item-06"
+      },
+      {
+        "id": "demo-18-item-07",
+        "name": "Tiramisu Cup",
+        "description": "Coffee-flavored layered dessert cup.",
+        "category": "Desserts",
+        "price": 159,
+        "isVeg": true,
+        "imageId": "demo-18-item-07"
+      }
+    ]
+  },
+  {
+    "restaurantId": "demo-19",
+    "restaurantName": "Punjabi Tadka",
+    "menuItems": [
+      {
+        "id": "demo-19-item-01",
+        "name": "Punjabi Chole",
+        "description": "Chickpeas simmered in Punjabi-style masala.",
+        "category": "Main Course",
+        "price": 169,
+        "isVeg": true,
+        "imageId": "demo-19-item-01"
+      },
+      {
+        "id": "demo-19-item-02",
+        "name": "Dal Makhani",
+        "description": "Black lentils slow-cooked with a creamy finish.",
+        "category": "Main Course",
+        "price": 199,
+        "isVeg": true,
+        "imageId": "demo-19-item-02"
+      },
+      {
+        "id": "demo-19-item-03",
+        "name": "Paneer Lababdar",
+        "description": "Paneer in a rich tomato and cashew gravy.",
+        "category": "Main Course",
+        "price": 249,
+        "isVeg": true,
+        "imageId": "demo-19-item-03"
+      },
+      {
+        "id": "demo-19-item-04",
+        "name": "Amritsari Kulcha",
+        "description": "Stuffed kulcha served with chole.",
+        "category": "Breads",
+        "price": 159,
+        "isVeg": true,
+        "imageId": "demo-19-item-04"
+      },
+      {
+        "id": "demo-19-item-05",
+        "name": "Butter Chicken",
+        "description": "Chicken cooked in a buttery tomato gravy.",
+        "category": "Main Course",
+        "price": 289,
+        "isVeg": false,
+        "imageId": "demo-19-item-05"
+      },
+      {
+        "id": "demo-19-item-06",
+        "name": "Jeera Rice",
+        "description": "Steamed rice tempered with cumin.",
+        "category": "Rice",
+        "price": 129,
+        "isVeg": true,
+        "imageId": "demo-19-item-06"
+      },
+      {
+        "id": "demo-19-item-07",
+        "name": "Gulab Jamun",
+        "description": "Milk-solid dumplings served in sugar syrup.",
+        "category": "Desserts",
+        "price": 79,
+        "isVeg": true,
+        "imageId": "demo-19-item-07"
+      }
+    ]
+  },
+  {
+    "restaurantId": "demo-20",
+    "restaurantName": "Sushi & Asian Bowl",
+    "menuItems": [
+      {
+        "id": "demo-20-item-01",
+        "name": "Veg Sushi Roll",
+        "description": "Rice and vegetables rolled in nori.",
+        "category": "Sushi",
+        "price": 229,
+        "isVeg": true,
+        "imageId": "demo-20-item-01"
+      },
+      {
+        "id": "demo-20-item-02",
+        "name": "Avocado Cucumber Roll",
+        "description": "Sushi roll with avocado and cucumber.",
+        "category": "Sushi",
+        "price": 249,
+        "isVeg": true,
+        "imageId": "demo-20-item-02"
+      },
+      {
+        "id": "demo-20-item-03",
+        "name": "Crispy Tempura Roll",
+        "description": "Vegetable roll with a crisp tempura coating.",
+        "category": "Sushi",
+        "price": 269,
+        "isVeg": true,
+        "imageId": "demo-20-item-03"
+      },
+      {
+        "id": "demo-20-item-04",
+        "name": "Chicken Teriyaki Bowl",
+        "description": "Rice bowl topped with teriyaki-style chicken.",
+        "category": "Rice Bowls",
+        "price": 299,
+        "isVeg": false,
+        "imageId": "demo-20-item-04"
+      },
+      {
+        "id": "demo-20-item-05",
+        "name": "Veg Hakka Noodles",
+        "description": "Asian-style stir-fried noodles with vegetables.",
+        "category": "Noodles",
+        "price": 179,
+        "isVeg": true,
+        "imageId": "demo-20-item-05"
+      },
+      {
+        "id": "demo-20-item-06",
+        "name": "Chilli Garlic Edamame",
+        "description": "Edamame tossed with chilli and garlic.",
+        "category": "Starters",
+        "price": 159,
+        "isVeg": true,
+        "imageId": "demo-20-item-06"
+      },
+      {
+        "id": "demo-20-item-07",
+        "name": "Mango Mochi",
+        "description": "Soft rice cake filled with mango-flavored cream.",
+        "category": "Desserts",
+        "price": 129,
+        "isVeg": true,
+        "imageId": "demo-20-item-07"
+      }
+    ]
+  }
+]
